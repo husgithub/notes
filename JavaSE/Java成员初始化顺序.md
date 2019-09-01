@@ -78,16 +78,16 @@ public class InitSeqChild extends InitSeqParent {
 }
 ```
 4.查看打印结果
->Dog Constructor...,dog's name: A
-Dog Constructor...,dog's name: C
-Dog Constructor...,dog's name: E
-Dog Constructor...,dog's name: G
-Dog Constructor...,dog's name: B
-Dog Constructor...,dog's name: D
-InitSeqParent Constructor...
-Dog Constructor...,dog's name: F
-Dog Constructor...,dog's name: H
-InitSeqChild Constructor...
+>Dog Constructor...,dog's name: A<br/>
+Dog Constructor...,dog's name: C<br/>
+Dog Constructor...,dog's name: E<br/>
+Dog Constructor...,dog's name: G<br/>
+Dog Constructor...,dog's name: B<br/>
+Dog Constructor...,dog's name: D<br/>
+InitSeqParent Constructor...<br/>
+Dog Constructor...,dog's name: F<br/>
+Dog Constructor...,dog's name: H<br/>
+InitSeqChild Constructor...<br/>
 >
 4.结论
 - Java成员初始化顺序为：
