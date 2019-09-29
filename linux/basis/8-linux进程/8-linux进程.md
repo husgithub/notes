@@ -24,3 +24,9 @@
     START | 进程启动时间和日期
     TIME  | 进程使用的总cpu时间
     COMMAND | 正在执行的命令行命令
+
+#### 终止进程
+**kill (terminate a process)**    
+- kill -l : 输出全部信号名称
+  ![](pic/20190929234143.png) <br>
+- kill -9 pid : 强制终止某个进程  
