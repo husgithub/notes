@@ -41,7 +41,7 @@ chkconfig --add mysql <br>
  如果看到mysql的服务如下图所示2,3,4,5都是开的话则成功<br>
 ![](pic/20190930014702.png) <br>
 5. 设置各运行级别自启动 chkconfig --level 2345 mysql on <br>
-6. reboot 重启测试 
+6. reboot 重启测试 （需要重启才能生效）
 <br>![](pic/20190930015406.png)
 
 
