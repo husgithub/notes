@@ -41,3 +41,6 @@ root : 当前登录的用户 <br>
 ### 5. 常用命令
 hostname : 查看当前主机名
 ![](./pic/2-hostname.png)
+
+cat /etc/redhat-release  : 查看centos版本
+
